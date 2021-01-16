@@ -37,6 +37,7 @@ def fare():
             return x1,y1
         else:
             time.sleep(0.01)
+fare()
 print("--------------------------------------------------------------------------------------------")
 print("program hazır lütfen facebook yerini geri açınız ve programı başlatmak için entere basınız")
 print("DİKKAT PROGRAM ÇALIŞIRKEN BİLGİSAYARI KULLANMAYINIZ")
